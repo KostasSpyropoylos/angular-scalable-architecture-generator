@@ -110,13 +110,13 @@ Production-grade deployment with:
 ### Step 1: Make the Script Executable
 
 ```bash
-chmod +x clean-architecture.sh
+chmod +x project-generator.sh
 ```
 
 ### Step 2: Run the Generator
 
 ```bash
-./clean-architecture.sh
+./project-generator.sh
 ```
 
 ### Step 3: Follow the Interactive Prompts
@@ -399,10 +399,10 @@ This project is provided as-is for learning and commercial use. Adapt and share 
 
 ```bash
 # 1. Make script executable
-chmod +x clean-architecture.sh
+chmod +x project-generator.sh
 
 # 2. Run it
-./clean-architecture.sh
+./project-generator.sh
 
 # 3. Answer prompts (name: "my-app", Docker: yes)
 
